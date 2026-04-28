@@ -1,0 +1,34 @@
+Title: Financial Sustainability and Free Access Model for Digital Skills Workshops
+Source: Social Enterprise Finance Guide — Switzerland
+Category: financial
+
+Financial Sustainability and Free Access Model for Digital Skills Workshops
+===========================================================================
+Pricing structure (Geneva context):
+  • Onsite participation: 15 CHF
+  • Online participation: 5 CHF
+  • Free spots: funded by surplus from paid registrations
+
+Revenue calculation per workshop:
+  Revenue = (n_paid_onsite × 15 CHF) + (n_paid_online × 5 CHF)
+
+Typical cost structure:
+  Fixed costs: instructor fee (250–400 CHF), venue rental (0–250 CHF)
+  Variable costs: materials per participant (3–8 CHF), admin overhead per participant (2–5 CHF)
+  Total cost = fixed + (n_total × variable_per_head)
+
+Free capacity formula:
+  Surplus = Revenue − Total cost
+  Cost per free participant = variable_per_head (fixed costs already covered by paid attendees)
+  Max free spots = max(0, floor(Surplus / cost_per_free_head))
+
+Best practice: Maintain a rolling fund.
+  Accumulate surplus from multiple workshops.
+  Reserve 20% of surplus as operational buffer.
+  Allocate 80% to free spots and bursaries.
+
+Forecasting for upcoming workshops:
+  Use historical mean ± 1 std of paid attendance (onsite and online separately).
+  Apply a 10% discount to expected revenue for conservative planning (prudence principle).
+  Project cost using fixed structure + estimated participants.
+  Report: expected free capacity, pessimistic (p10) and optimistic (p90) scenarios.

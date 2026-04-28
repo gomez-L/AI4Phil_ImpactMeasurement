@@ -1,0 +1,28 @@
+Title: Best Practices in Digital Skills Curriculum Design
+Source: Digital Skills Alliance — Curriculum Framework
+Category: curriculum
+
+Best Practices in Digital Skills Curriculum Design
+===================================================
+Modular curriculum structure (recommended for non-profits):
+  Tier 1 – Foundations: digital safety, email, office tools, cloud storage (4h)
+  Tier 2 – Productivity: Excel/Sheets, data visualisation, collaboration tools (6h)
+  Tier 3 – Professional: Python basics, data literacy, cybersecurity, AI tools (8h)
+  Tier 4 – Advanced: web development, automation, data analysis (12h+)
+
+Pedagogical principles:
+  • 70-20-10 rule: 70% hands-on exercises, 20% discussion, 10% lecture.
+  • Real-world projects: use datasets and scenarios from participants' actual contexts.
+  • Peer learning: pair novices with intermediate learners.
+  • Spaced repetition: short follow-up exercises sent by email 1 week post-workshop.
+
+Assessment design:
+  • Pre-test: 10 questions, mix of conceptual and applied. Administered 10 min before start.
+  • Post-test: equivalent difficulty (different questions), administered at end.
+  • Minimum detectable effect: 2 points on 0–10 scale = practically significant.
+
+Online adaptation:
+  • Max 3h per session (attention fatigue beyond this point).
+  • Use breakout rooms for exercises (groups of 3–4).
+  • Provide asynchronous recording for review within 72h.
+  • Platform latency check: join 10 min early, test audio/video.

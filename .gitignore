@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Local environment files
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated runtime outputs
+*.log
+
+# Local vector DB artifacts
+# Uncomment the next line if you do not want to version Chroma persistence.
+# data/chroma_db/

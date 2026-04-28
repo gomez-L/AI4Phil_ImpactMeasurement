@@ -1,0 +1,5 @@
+{"entity": "upcoming_workshop", "sequence": 1, "workshop": {"name": "Statistics Beginners", "modality": "online", "date": "2026-07-05"}}
+{"entity": "upcoming_workshop", "sequence": 2, "workshop": {"name": "Statistics Intermediate", "modality": "online", "date": "2026-07-19"}}
+{"entity": "upcoming_workshop", "sequence": 3, "workshop": {"name": "Introduction to Programming in R", "modality": "online", "date": "2026-08-03"}}
+{"entity": "upcoming_workshop", "sequence": 4, "workshop": {"name": "Hypothesis Testing", "modality": "online", "date": "2026-08-17"}}
+{"entity": "upcoming_workshop", "sequence": 5, "workshop": {"name": "Data Quality", "modality": "online", "date": "2026-08-31"}}

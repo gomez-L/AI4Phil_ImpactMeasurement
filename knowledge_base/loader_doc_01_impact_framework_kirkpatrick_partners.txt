@@ -1,0 +1,22 @@
+Title: Kirkpatrick's Four-Level Training Evaluation Model
+Source: Kirkpatrick Partners
+Category: impact_framework
+
+Kirkpatrick's Four-Level Training Evaluation Model
+===================================================
+Level 1 – Reaction: Measures how participants feel about the training.
+Collected via satisfaction surveys immediately after the session.
+Key metrics: overall satisfaction score, NPS (Net Promoter Score), open feedback.
+
+Level 2 – Learning: Assesses the increase in knowledge, skills, or attitudes.
+Collected via pre- and post-workshop knowledge tests (0–10 scale).
+Key metrics: mean score gain, Cohen's d effect size, % of learners with ≥ 2-point gain.
+A paired t-test (p < 0.05) confirms whether improvement is statistically significant.
+
+Level 3 – Behaviour: Evaluates whether participants apply what they learned.
+Best measured via follow-up surveys 30–90 days after the workshop.
+Key metrics: self-reported application rate, manager observation ratings.
+
+Level 4 – Results: Measures the organisational or social impact.
+For digital skills non-profits this includes: employment outcomes, community digital
+literacy index, partner institution ratings, reduction in digital exclusion.

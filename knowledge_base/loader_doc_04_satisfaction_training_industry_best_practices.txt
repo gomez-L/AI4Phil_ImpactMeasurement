@@ -1,0 +1,26 @@
+Title: Multi-Dimensional Satisfaction Measurement for Training Programmes
+Source: Training Industry Best Practices
+Category: satisfaction
+
+Multi-Dimensional Satisfaction Measurement for Training Programmes
+==================================================================
+Measure satisfaction across at least five dimensions (1–5 scale):
+
+1. Content quality: Relevance, accuracy, depth, real-world applicability.
+   Alert threshold: < 3.5/5. Action: curriculum review with subject matter experts.
+
+2. Organisation: Scheduling, communications, registration process, timing.
+   Alert threshold: < 3.5/5. Action: improve admin processes and communications.
+
+3. Instructor/Facilitator: Clarity of explanation, engagement, responsiveness to questions.
+   Alert threshold: < 4.0/5. Action: instructor coaching or reassignment.
+
+4. Materials: Slides, handouts, exercises, reference guides.
+   Alert threshold: < 3.5/5. Action: materials refresh with participant input.
+
+5. Online platform (for remote sessions): Technical quality, ease of use, interactivity.
+   Alert threshold: < 3.5/5. Action: platform change or enhanced tech support.
+
+Aggregate scoring:
+  Weighted average = 0.25*content + 0.15*organisation + 0.30*instructor + 0.15*materials + 0.15*overall
+  A score ≥ 4.0 represents high satisfaction.

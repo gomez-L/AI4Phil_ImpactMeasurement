@@ -1,4 +1,4 @@
-# AI4Phil_ImpactMeasurement
+# Impact Measurement Agent
 
 Production-grade impact analytics + reasoning agent for a digital-skills nonprofit programme in Geneva.
 
@@ -34,28 +34,28 @@ Notebook mapping:
 
 ```mermaid
 flowchart LR
-    U[User Query] --> M[main.py CLI]
-    M --> G[agent/graph.py ReAct Agent]
-    G --> P[agent/prompts.py SYSTEM_PROMPT]
-    G --> T[tools/__init__.py ALL_TOOLS]
+    U["User Query"] --> M["main.py CLI"]
+    M --> G["agent/graph.py ReAct Agent"]
+    G --> P["agent/prompts.py SYSTEM_PROMPT"]
+    G --> T["tools/__init__.py ALL_TOOLS"]
 
-    T --> A[tools/assessment.py]
-    T --> S[tools/satisfaction.py]
-    T --> R[tools/reputation.py]
-    T --> F[tools/feedback.py]
-    T --> Fin[tools/financial.py]
-    T --> KBQ[tools/kb_query.py]
-    T --> Rep[tools/reporting.py]
+    T --> A["tools/assessment.py"]
+    T --> S["tools/satisfaction.py"]
+    T --> R["tools/reputation.py"]
+    T --> F["tools/feedback.py"]
+    T --> Fin["tools/financial.py"]
+    T --> KBQ["tools/kb_query.py"]
+    T --> Rep["tools/reporting.py"]
 
-    KBQ --> KBS[knowledge_base/store.py]
-    KBS --> KBL[knowledge_base/loader.py]
-    KBL --> KBTxt[knowledge_base/*.txt]
+    KBQ --> KBS["knowledge_base/store.py"]
+    KBS --> KBL["knowledge_base/loader.py"]
+    KBL --> KBTxt["knowledge_base files (.txt)"]
 
-    G --> OBS[observability.py build_run_config/observe]
-    M --> OUT[data/generated/*.json]
+    G --> OBS["observability.py build_run_config and observe"]
+    M --> OUT["data/generated JSON outputs"]
 
-    SD[sample_data.py] --> M
-    CFG[config.py (.env)] --> G
+    SD["sample_data.py"] --> M
+    CFG["config.py and .env"] --> G
     CFG --> SD
 ```
 

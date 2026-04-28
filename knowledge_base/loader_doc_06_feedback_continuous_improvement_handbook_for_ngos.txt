@@ -1,0 +1,32 @@
+Title: Empirical Continuous Improvement for Training Programmes
+Source: Continuous Improvement Handbook for NGOs
+Category: feedback
+
+Empirical Continuous Improvement for Training Programmes
+=========================================================
+An evidence-based feedback loop follows four steps:
+
+COLLECT → ANALYSE → HYPOTHESISE → TEST
+
+1. Collect: Gather post-workshop surveys, open feedback, and follow-up check-ins.
+   Collect at two intervals: immediately after session and 30–60 days later.
+
+2. Analyse: Identify recurring patterns.
+   - Frequency analysis: which issues are mentioned in ≥ 20% of feedback?
+   - Dimension scoring: which satisfaction dimension falls below threshold?
+   - Correlation: does low instructor score correlate with low knowledge gain?
+
+3. Hypothesise: For each problem, define a testable improvement hypothesis.
+   Example: "If we add a Q&A buffer of 15 min at the end, organisation score will rise ≥ 0.3 pts."
+
+4. Test: Implement change in next 2 workshops, compare results with control cohort.
+   Statistical significance threshold: Cohen's d ≥ 0.2 (small effect) or p < 0.10.
+
+Prioritisation matrix (Impact × Effort):
+  High impact / Low effort  → Do immediately
+  High impact / High effort → Plan for next quarter
+  Low impact / Low effort   → Nice to have
+  Low impact / High effort  → Deprioritise
+
+Track all implemented changes in a Programme Improvement Log with dates,
+hypothesis, result, and decision (keep / revert / iterate).

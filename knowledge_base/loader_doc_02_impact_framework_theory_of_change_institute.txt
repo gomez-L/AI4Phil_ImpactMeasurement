@@ -1,0 +1,28 @@
+Title: Theory of Change for Digital Skills Non-Profits
+Source: Theory of Change Institute
+Category: impact_framework
+
+Theory of Change for Digital Skills Non-Profits
+================================================
+Inputs: Funding (paid registrations + grants), volunteer instructors, venue/platform,
+curriculum materials.
+
+Activities: Delivering workshops on Python, cybersecurity, data literacy, AI tools,
+Excel, digital marketing. Offering both onsite (15 CHF) and online (5 CHF) formats.
+Providing free spots financed by surplus from paid registrations.
+
+Outputs: Number of workshops, participants trained, free spots offered,
+curriculum modules developed.
+
+Outcomes (short-term, 0–6 months):
+  • Improved digital knowledge (measured via pre/post tests)
+  • Increased confidence with digital tools (Likert self-assessment)
+  • New professional skills for job market
+
+Outcomes (medium-term, 6–18 months):
+  • Career advancement or employment for participants
+  • Increased digital literacy in the community
+
+Impact (long-term, 18+ months):
+  • Reduced digital divide in Geneva
+  • Recognised city-wide reputation as a trusted digital education provider

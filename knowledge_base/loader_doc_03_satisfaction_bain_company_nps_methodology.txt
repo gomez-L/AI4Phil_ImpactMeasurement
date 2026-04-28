@@ -1,0 +1,22 @@
+Title: Using NPS (Net Promoter Score) in Workshop Settings
+Source: Bain & Company — NPS Methodology
+Category: satisfaction
+
+Using NPS (Net Promoter Score) in Workshop Settings
+====================================================
+NPS = % Promoters (score 9–10) − % Detractors (score 0–6)
+Range: −100 to +100. A score above 50 is considered excellent for educational programmes.
+
+Interpretation for digital skills workshops:
+  ≥ 70  : World-class. Participants are enthusiastic advocates.
+  50–69 : Excellent. Strong word-of-mouth expected.
+  30–49 : Good. Room for improvement in specific dimensions.
+  0–29  : Acceptable. Significant issues need addressing.
+  < 0   : Poor. Systemic problems require urgent action.
+
+Best practices:
+  • Collect NPS at end of session AND 30 days later (loyalty NPS).
+  • Always pair NPS with a qualitative "Why did you give this score?" prompt.
+  • Segment NPS by modality (onsite vs online) — online sessions typically score 5–10 pts lower
+    due to engagement and technical barriers.
+  • Track trend over time, not just absolute score.

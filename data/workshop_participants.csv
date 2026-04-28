@@ -1,0 +1,241 @@
+﻿workshop_id,workshop_name,workshop_date,participant_id,payment_type,modality,pre_score,post_score,knowledge_gain,survey_content,survey_organization,survey_instructor,survey_materials,survey_platform,survey_overall,survey_nps,survey_open_feedback
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p01,paid,onsite,3.0,6.2,3.2,3.6,4.3,4.5,3.9,,4.3,9,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p02,paid,onsite,3.2,6.4,3.2,3.6,4.2,4.5,3.8,,4.2,8,
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p03,paid,onsite,3.4,6.4,3.0,4.0,4.3,4.9,4.0,,4.0,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p04,paid,onsite,3.6,6.4,2.8,4.4,4.3,4.5,3.3,,4.4,8,"Very practical exercises, I could apply them the same day."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p05,paid,onsite,3.8,7.1,3.3,4.0,4.7,4.6,3.8,,4.4,8,"Great atmosphere, well-organised."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p06,paid,onsite,4.0,7.2,3.2,4.2,4.1,4.5,3.5,,3.9,7,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p07,paid,onsite,4.2,7.2,3.0,4.0,4.6,4.5,3.6,,4.3,8,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p08,paid,onsite,4.4,7.6,3.2,3.7,4.5,4.5,3.6,,4.5,8,
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p09,paid,onsite,4.6,7.4,2.8,3.9,4.6,4.4,4.0,,4.4,8,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p10,paid,onsite,4.8,7.6,2.8,4.4,4.6,4.6,3.9,,4.1,9,Would have liked smaller group for Q&A.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p11,paid,onsite,5.0,7.7,2.7,3.7,4.5,4.7,3.9,,4.2,8,"Great atmosphere, well-organised."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p12,paid,onsite,5.2,8.0,2.8,4.4,4.4,4.5,3.2,,4.0,8,Content was good but we ran out of time at the end.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p13,paid,onsite,3.0,6.2,3.2,3.9,4.5,4.7,3.5,,4.2,9,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p14,paid,onsite,3.2,6.5,3.3,4.0,4.3,4.8,3.3,,4.2,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p15,paid,onsite,3.4,7.0,3.6,4.2,4.4,4.5,3.8,,4.4,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p16,paid,onsite,3.6,6.4,2.8,4.2,4.4,4.9,3.7,,3.9,7,"Very practical exercises, I could apply them the same day."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p17,paid,onsite,3.8,6.5,2.7,3.9,4.7,4.9,3.4,,4.0,8,The instructor explained complex concepts clearly.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p18,paid,onsite,4.0,6.7,2.7,4.0,4.1,4.9,4.0,,4.0,8,
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p19,paid,onsite,4.2,7.0,2.8,4.0,4.5,5.0,4.1,,4.4,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p20,paid,onsite,4.4,7.4,3.0,4.1,4.3,4.9,3.7,,4.0,6,"Very practical exercises, I could apply them the same day."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p21,paid,onsite,4.6,7.8,3.2,3.8,4.2,4.4,3.8,,4.0,9,"Great atmosphere, well-organised."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p22,paid,onsite,4.8,7.5,2.7,3.8,4.5,4.5,3.3,,4.5,8,Would have liked smaller group for Q&A.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p23,paid,onsite,5.0,7.8,2.8,4.0,4.3,4.5,3.9,,4.1,8,"Very practical exercises, I could apply them the same day."
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p24,paid,onsite,5.2,8.5,3.3,4.4,4.2,4.6,3.5,,4.4,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p25,paid,onsite,3.0,6.1,3.1,3.7,4.2,4.7,4.1,,3.9,9,
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p26,free,onsite,2.2,5.2,3.0,4.2,4.5,4.5,3.4,,4.5,7,Content was good but we ran out of time at the end.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p27,free,onsite,2.2,5.6,3.4,3.9,4.4,4.5,3.7,,4.6,7,Would have liked smaller group for Q&A.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p28,free,onsite,2.2,5.4,3.2,4.3,4.6,5.0,4.0,,4.3,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p29,free,onsite,2.2,6.1,3.9,4.2,4.5,4.9,3.4,,4.4,8,
+ws_2026_001,Python Basics for Beginners,2026-01-20,ws_2026_001_p30,free,onsite,2.2,5.3,3.1,4.5,4.2,4.6,3.9,,4.4,7,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p01,paid,online,3.9,7.0,3.1,3.8,4.1,4.1,3.0,4.0,3.9,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p02,paid,online,4.1,6.5,2.4,3.9,3.9,4.3,3.6,3.7,3.8,8,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p03,paid,online,4.3,6.5,2.2,3.8,4.1,4.2,3.4,3.9,3.7,7,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p04,paid,online,4.5,7.6,3.1,3.6,3.9,4.6,3.6,4.0,4.2,8,"Very practical exercises, I could apply them the same day."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p05,paid,online,4.7,7.6,2.9,3.7,4.4,4.2,3.8,3.7,4.1,8,Would benefit from more hands-on time.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p06,paid,online,4.9,7.4,2.5,3.8,4.2,4.2,3.5,3.7,3.9,9,"Very practical exercises, I could apply them the same day."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p07,paid,online,5.1,7.4,2.3,3.6,4.0,4.1,3.7,4.0,3.8,8,
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p08,paid,online,5.3,8.2,2.9,3.7,3.9,4.7,3.6,3.6,3.6,7,
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p09,paid,online,5.5,7.8,2.3,3.4,4.0,4.6,3.7,4.2,4.1,6,Excellent introduction — looking forward to advanced sessions.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p10,paid,online,5.7,8.6,2.9,3.6,4.1,4.6,3.9,4.1,4.2,7,Would benefit from more hands-on time.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p11,paid,online,5.9,9.1,3.2,3.9,4.3,4.1,3.6,3.8,4.2,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p12,paid,online,6.1,8.6,2.5,3.9,3.9,4.6,3.8,3.7,4.1,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p13,paid,online,3.9,6.9,3.0,4.0,3.9,4.5,3.3,3.7,3.6,8,"Great atmosphere, well-organised."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p14,paid,online,4.1,6.9,2.8,3.6,4.4,4.4,3.8,3.6,4.2,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p15,paid,online,4.3,6.5,2.2,3.8,4.0,4.6,3.3,4.3,3.7,9,Excellent introduction — looking forward to advanced sessions.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p16,paid,online,4.5,7.0,2.5,3.9,3.8,4.7,3.4,4.1,4.0,8,"Great atmosphere, well-organised."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p17,paid,online,4.7,7.3,2.6,4.1,4.4,4.5,3.6,3.6,4.1,7,Content was good but we ran out of time at the end.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p18,paid,online,4.9,7.4,2.5,3.9,4.1,4.2,3.6,3.8,4.0,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p19,paid,online,5.1,7.7,2.6,4.0,4.0,4.2,3.7,4.0,3.8,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p20,paid,online,5.3,8.0,2.7,3.9,4.4,4.5,3.6,3.7,4.0,8,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p21,paid,online,5.5,8.5,3.0,3.9,4.2,4.2,3.1,3.5,3.7,7,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p22,paid,online,5.7,8.4,2.7,4.0,4.1,4.5,3.3,3.8,3.7,8,The instructor explained complex concepts clearly.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p23,paid,online,5.9,8.9,3.0,3.5,4.3,4.5,3.4,3.9,4.2,6,Would benefit from more hands-on time.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p24,paid,online,6.1,9.1,3.0,3.8,4.4,4.5,3.9,4.2,4.0,8,
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p25,paid,online,3.9,6.5,2.6,4.0,4.1,4.2,3.8,3.9,4.1,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p26,free,online,3.1,6.4,3.3,3.8,4.3,4.4,3.1,3.7,3.9,7,
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p27,free,online,3.1,5.7,2.6,3.5,4.1,4.3,3.2,3.8,3.9,7,"Very practical exercises, I could apply them the same day."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p28,free,online,3.1,5.8,2.7,3.7,4.4,4.6,3.7,4.2,4.2,7,"Very practical exercises, I could apply them the same day."
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p29,free,online,3.1,6.5,3.4,3.6,4.1,4.7,3.8,3.9,4.1,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_002,Cybersecurity Essentials,2026-02-10,ws_2026_002_p30,free,online,3.1,6.1,3.0,3.6,4.2,4.4,3.7,4.1,4.1,9,Would benefit from more hands-on time.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p01,paid,onsite,3.4,6.4,3.0,3.9,4.5,4.7,3.8,,3.9,7,Would have liked smaller group for Q&A.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p02,paid,onsite,3.6,5.8,2.2,3.7,4.2,4.6,3.4,,4.3,7,Content was good but we ran out of time at the end.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p03,paid,onsite,3.8,6.1,2.3,3.6,4.0,4.6,4.1,,4.0,8,"Very practical exercises, I could apply them the same day."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p04,paid,onsite,4.0,6.8,2.8,4.3,4.1,4.3,3.3,,3.9,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p05,paid,onsite,4.2,6.7,2.5,3.7,4.2,4.7,4.1,,4.2,8,Would benefit from more hands-on time.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p06,paid,onsite,4.4,7.4,3.0,3.6,4.0,4.5,3.8,,4.4,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p07,paid,onsite,4.6,6.7,2.1,4.1,4.4,4.4,3.9,,4.3,8,The instructor explained complex concepts clearly.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p08,paid,onsite,4.8,7.6,2.8,4.0,4.0,4.6,3.8,,3.8,8,"Very practical exercises, I could apply them the same day."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p09,paid,onsite,5.0,7.8,2.8,4.2,4.1,4.9,3.7,,4.3,8,Content was good but we ran out of time at the end.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p10,paid,onsite,5.2,7.4,2.2,3.9,4.4,4.7,4.0,,4.3,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p11,paid,onsite,5.4,7.7,2.3,3.7,4.6,4.5,3.6,,4.3,8,Content was good but we ran out of time at the end.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p12,paid,onsite,5.6,7.9,2.3,3.9,4.2,4.6,3.5,,4.0,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p13,paid,onsite,3.4,6.0,2.6,3.9,4.1,4.4,3.5,,4.1,7,Would have liked smaller group for Q&A.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p14,paid,onsite,3.6,6.2,2.6,3.9,4.5,4.4,3.3,,4.2,7,"Great atmosphere, well-organised."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p15,paid,onsite,3.8,6.3,2.5,3.9,4.3,4.7,3.4,,4.2,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p16,paid,onsite,4.0,6.2,2.2,4.1,4.2,4.7,4.1,,4.2,7,Would have liked smaller group for Q&A.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p17,paid,onsite,4.2,6.5,2.3,4.0,4.5,4.7,4.1,,4.3,7,"Great atmosphere, well-organised."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p18,paid,onsite,4.4,6.6,2.2,3.5,4.3,4.5,4.1,,4.1,8,Would benefit from more hands-on time.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p19,paid,onsite,4.6,7.2,2.6,4.1,4.1,4.3,3.4,,4.1,7,"Very practical exercises, I could apply them the same day."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p20,paid,onsite,4.8,7.1,2.3,4.2,4.1,4.3,3.6,,4.1,8,Would benefit from more hands-on time.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p21,paid,onsite,5.0,7.1,2.1,4.0,4.2,4.9,3.2,,4.3,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p22,paid,onsite,5.2,8.0,2.8,3.8,4.5,4.5,3.7,,4.1,8,"Very practical exercises, I could apply them the same day."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p23,paid,onsite,5.4,8.0,2.6,4.1,4.6,4.4,3.3,,4.2,7,Would benefit from more hands-on time.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p24,paid,onsite,5.6,8.2,2.6,3.6,4.2,4.7,3.6,,3.8,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p25,paid,onsite,3.4,6.1,2.7,3.9,4.4,4.9,3.9,,4.2,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p26,free,onsite,2.6,5.3,2.7,4.0,4.5,4.9,4.0,,3.9,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p27,free,onsite,2.6,5.5,2.9,4.3,4.7,4.7,3.7,,4.1,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p28,free,onsite,2.6,5.4,2.8,4.0,4.1,4.4,3.6,,4.1,7,The instructor explained complex concepts clearly.
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p29,free,onsite,2.6,5.1,2.5,4.1,4.6,4.8,3.2,,4.4,9,"Very practical exercises, I could apply them the same day."
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,ws_2026_003_p30,free,onsite,2.6,5.7,3.1,3.7,4.4,4.7,3.5,,4.5,8,Would have liked smaller group for Q&A.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p01,paid,online,2.6,6.0,3.4,3.8,4.1,4.4,3.1,3.6,3.9,7,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p02,paid,online,2.8,6.0,3.2,3.8,4.2,4.4,3.3,4.3,3.9,8,"Very practical exercises, I could apply them the same day."
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p03,paid,online,3.0,6.1,3.1,3.8,4.1,4.3,3.4,4.1,4.1,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p04,paid,online,3.2,5.9,2.7,3.5,4.1,4.7,3.5,3.5,4.1,8,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p05,paid,online,3.4,6.1,2.7,3.4,4.1,4.3,3.8,3.6,4.3,8,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p06,paid,online,3.6,6.5,2.9,4.0,4.2,4.4,3.8,4.3,3.8,8,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p07,paid,online,3.8,6.4,2.6,3.9,4.3,4.3,3.1,4.1,4.2,7,
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p08,paid,online,4.0,6.7,2.7,3.4,4.3,4.7,3.6,4.0,4.2,7,Would have liked smaller group for Q&A.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p09,paid,online,4.2,6.9,2.7,3.8,4.2,4.5,3.3,3.7,4.1,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p10,paid,online,4.4,7.7,3.3,3.7,4.1,4.5,3.9,3.8,4.3,8,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p11,paid,online,4.6,7.5,2.9,3.4,4.2,4.6,3.9,4.2,4.0,8,Would have liked smaller group for Q&A.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p12,paid,online,4.8,7.2,2.4,3.5,4.4,4.8,3.1,4.1,3.9,8,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p13,paid,online,2.6,5.6,3.0,4.1,4.4,4.7,3.4,3.8,4.1,8,
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p14,paid,online,2.8,5.2,2.4,3.5,4.3,4.8,4.0,4.1,4.0,6,The instructor explained complex concepts clearly.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p15,paid,online,3.0,5.8,2.8,4.0,4.4,4.2,3.8,3.7,3.9,6,
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p16,paid,online,3.2,6.0,2.8,3.9,4.0,4.3,3.6,3.8,4.1,7,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p17,paid,online,3.4,6.0,2.6,3.9,4.2,4.6,3.9,3.9,3.9,8,The instructor explained complex concepts clearly.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p18,paid,online,3.6,6.4,2.8,3.7,4.3,4.6,3.4,3.7,4.2,7,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p19,paid,online,3.8,7.1,3.3,3.5,4.1,4.4,3.3,4.1,3.7,8,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p20,paid,online,4.0,6.7,2.7,3.9,4.3,4.6,3.0,4.0,4.0,9,"Materials were slightly outdated, but overall very useful."
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p21,paid,online,4.2,7.4,3.2,3.6,4.4,4.3,3.2,3.7,4.2,8,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p22,paid,online,4.4,7.4,3.0,4.1,4.3,4.4,3.4,4.0,4.1,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p23,paid,online,4.6,7.3,2.7,3.7,4.0,4.7,3.9,3.8,4.0,7,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p24,paid,online,4.8,7.5,2.7,4.1,4.2,4.7,3.7,3.8,3.8,9,Would benefit from more hands-on time.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p25,paid,online,2.6,5.8,3.2,3.6,4.3,4.6,3.4,4.2,4.0,6,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p26,free,online,1.8,4.5,2.7,3.9,4.3,4.7,3.8,4.0,4.3,9,The instructor explained complex concepts clearly.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p27,free,online,1.8,5.2,3.4,3.9,4.4,4.9,3.4,4.0,4.2,8,Would have liked smaller group for Q&A.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p28,free,online,1.8,5.4,3.6,3.7,4.2,4.4,4.0,3.7,4.1,6,
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p29,free,online,1.8,4.6,2.8,3.9,4.4,4.7,4.0,3.8,4.2,7,Content was good but we ran out of time at the end.
+ws_2026_004,Statistics Beginners,2026-04-05,ws_2026_004_p30,free,online,1.8,5.2,3.4,4.2,4.4,4.9,3.4,4.1,3.9,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p01,paid,online,4.4,7.1,2.7,3.5,4.3,4.5,4.0,3.8,3.9,7,The instructor explained complex concepts clearly.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p02,paid,online,4.6,7.3,2.7,4.1,4.0,4.3,3.6,4.3,3.7,7,Would benefit from more hands-on time.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p03,paid,online,4.8,7.4,2.6,3.6,4.4,4.5,3.6,4.2,3.8,8,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p04,paid,online,5.0,7.1,2.1,4.2,4.5,4.5,3.8,3.6,4.2,6,"Great atmosphere, well-organised."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p05,paid,online,5.2,7.8,2.6,3.6,4.1,4.3,3.1,4.1,4.0,8,Would have liked smaller group for Q&A.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p06,paid,online,5.4,7.6,2.2,3.7,4.3,4.5,3.2,4.0,4.1,9,
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p07,paid,online,5.6,7.7,2.1,3.9,3.9,4.8,3.8,3.8,3.8,8,Would have liked smaller group for Q&A.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p08,paid,online,5.8,7.7,1.9,3.5,4.3,4.2,3.3,4.0,4.0,7,
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p09,paid,online,6.0,8.1,2.1,3.8,4.2,4.7,3.1,4.0,4.2,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p10,paid,online,6.2,8.4,2.2,4.1,4.1,4.7,3.4,4.1,3.9,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p11,paid,online,6.4,8.6,2.2,3.5,4.5,4.2,3.8,3.6,3.8,8,Would benefit from more hands-on time.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p12,paid,online,6.6,9.0,2.4,3.9,4.2,4.4,3.1,3.8,4.1,8,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p13,paid,online,4.4,7.2,2.8,3.9,4.1,4.5,3.2,4.0,3.8,6,
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p14,paid,online,4.6,6.8,2.2,4.0,4.2,4.7,3.8,4.3,4.2,8,
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p15,paid,online,4.8,6.6,1.8,4.1,4.4,4.4,3.2,4.1,3.9,7,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p16,paid,online,5.0,7.0,2.0,3.5,4.3,4.2,3.7,4.3,3.8,8,Content was good but we ran out of time at the end.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p17,paid,online,5.2,7.4,2.2,3.7,4.1,4.6,3.8,4.0,3.8,6,Would benefit from more hands-on time.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p18,paid,online,5.4,8.0,2.6,3.4,3.9,4.5,3.4,4.0,3.9,7,
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p19,paid,online,5.6,7.5,1.9,3.7,4.1,4.6,3.5,4.0,3.7,7,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p20,paid,online,5.8,7.6,1.8,3.6,4.0,4.3,3.3,3.8,3.7,8,Would benefit from more hands-on time.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p21,paid,online,6.0,7.9,1.9,3.8,4.0,4.5,3.7,3.8,3.9,8,Content was good but we ran out of time at the end.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p22,paid,online,6.2,8.0,1.8,4.1,4.4,4.5,3.6,4.1,4.0,6,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p23,paid,online,6.4,9.2,2.8,3.5,4.5,4.5,3.7,3.8,4.0,6,Content was good but we ran out of time at the end.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p24,paid,online,6.6,9.0,2.4,3.8,4.1,4.4,3.3,3.8,3.8,8,The instructor explained complex concepts clearly.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p25,paid,online,4.4,6.7,2.3,3.6,4.4,4.4,4.0,4.0,3.8,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p26,free,online,3.6,5.9,2.3,4.0,4.5,4.7,3.3,4.1,4.1,8,Would have liked smaller group for Q&A.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p27,free,online,3.6,6.4,2.8,4.2,4.4,4.9,3.4,4.3,4.0,7,Would have liked smaller group for Q&A.
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p28,free,online,3.6,6.1,2.5,3.7,4.2,4.3,3.6,3.7,4.1,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p29,free,online,3.6,5.8,2.2,4.2,4.5,4.7,3.6,3.9,4.1,9,"Very practical exercises, I could apply them the same day."
+ws_2026_005,Statistics Intermediate,2026-04-25,ws_2026_005_p30,free,online,3.6,6.1,2.5,4.1,4.4,4.5,3.6,3.6,3.8,6,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p01,paid,online,2.9,6.4,3.5,3.6,4.4,4.3,3.8,4.3,4.1,8,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p02,paid,online,3.1,6.0,2.9,3.7,4.2,4.5,3.7,4.1,4.2,6,The instructor explained complex concepts clearly.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p03,paid,online,3.3,6.4,3.1,3.8,4.2,4.8,4.1,4.0,3.9,6,Would benefit from more hands-on time.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p04,paid,online,3.5,6.9,3.4,3.7,4.4,4.7,3.2,4.1,3.9,8,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p05,paid,online,3.7,7.0,3.3,4.0,4.5,4.7,3.8,3.9,4.2,7,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p06,paid,online,3.9,6.4,2.5,3.7,4.6,4.5,3.9,3.7,4.4,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p07,paid,online,4.1,7.4,3.3,3.6,4.5,4.8,4.0,3.5,4.0,8,Would benefit from more hands-on time.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p08,paid,online,4.3,7.4,3.1,3.6,4.1,4.7,3.7,4.2,4.2,6,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p09,paid,online,4.5,7.7,3.2,3.7,4.3,4.5,3.8,3.9,4.1,7,Would have liked smaller group for Q&A.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p10,paid,online,4.7,8.1,3.4,3.7,4.4,4.6,3.5,4.1,4.3,8,Content was good but we ran out of time at the end.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p11,paid,online,4.9,8.4,3.5,4.2,4.5,4.4,3.4,4.0,4.3,8,The instructor explained complex concepts clearly.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p12,paid,online,5.1,8.3,3.2,3.9,4.1,4.4,3.3,3.9,4.1,9,The instructor explained complex concepts clearly.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p13,paid,online,2.9,6.3,3.4,3.7,4.3,4.5,3.1,3.5,4.1,7,The instructor explained complex concepts clearly.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p14,paid,online,3.1,6.0,2.9,3.5,4.6,4.8,3.7,4.1,3.9,7,Would have liked smaller group for Q&A.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p15,paid,online,3.3,6.5,3.2,3.6,4.4,4.6,3.1,3.6,4.0,9,
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p16,paid,online,3.5,6.9,3.4,4.0,4.3,4.8,3.3,3.6,3.9,8,Would have liked smaller group for Q&A.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p17,paid,online,3.7,6.3,2.6,4.2,4.3,4.6,3.7,4.0,4.2,7,"Very practical exercises, I could apply them the same day."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p18,paid,online,3.9,7.0,3.1,3.7,4.2,4.7,3.2,4.3,3.8,8,
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p19,paid,online,4.1,7.4,3.3,3.9,4.0,4.8,3.1,3.8,4.0,8,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p20,paid,online,4.3,7.6,3.3,3.8,4.4,4.7,3.9,4.1,4.0,6,
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p21,paid,online,4.5,7.3,2.8,4.0,4.5,4.7,4.1,3.9,3.9,7,Would have liked smaller group for Q&A.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p22,paid,online,4.7,7.2,2.5,3.7,4.5,4.8,3.4,3.7,4.0,9,Would have liked smaller group for Q&A.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p23,paid,online,4.9,7.7,2.8,4.1,4.1,4.5,3.9,4.2,4.0,7,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p24,paid,online,5.1,8.0,2.9,3.8,4.3,4.9,3.4,3.6,4.2,7,
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p25,paid,online,2.9,5.7,2.8,3.6,4.3,4.6,4.1,3.6,4.0,6,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p26,free,online,2.1,5.6,3.5,3.8,4.5,4.7,3.9,3.8,3.9,9,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p27,free,online,2.1,5.5,3.4,3.9,4.5,4.9,3.3,4.0,4.1,8,Would benefit from more hands-on time.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p28,free,online,2.1,5.9,3.8,3.7,4.5,4.9,3.2,3.6,4.4,7,Content was good but we ran out of time at the end.
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p29,free,online,2.1,5.8,3.7,3.6,4.2,4.7,3.6,3.9,3.9,7,"Great atmosphere, well-organised."
+ws_2026_006,Introduction to Programming in R,2026-05-12,ws_2026_006_p30,free,online,2.1,5.3,3.2,4.1,4.2,4.5,3.9,3.9,4.1,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p01,paid,online,3.8,6.7,2.9,4.0,4.0,4.6,3.7,4.3,3.8,6,The instructor explained complex concepts clearly.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p02,paid,online,4.0,6.6,2.6,4.1,4.2,4.3,3.7,4.2,3.9,7,The instructor explained complex concepts clearly.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p03,paid,online,4.2,6.8,2.6,3.6,4.1,4.3,3.7,4.1,3.8,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p04,paid,online,4.4,6.6,2.2,3.6,4.0,4.7,3.0,3.9,3.9,8,
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p05,paid,online,4.6,6.8,2.2,4.1,3.9,4.4,3.7,3.9,3.9,7,The instructor explained complex concepts clearly.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p06,paid,online,4.8,7.0,2.2,3.7,3.9,4.5,3.5,3.6,4.2,8,Would benefit from more hands-on time.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p07,paid,online,5.0,7.9,2.9,3.5,4.2,4.7,3.8,3.9,3.9,6,Excellent introduction — looking forward to advanced sessions.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p08,paid,online,5.2,7.6,2.4,4.2,4.4,4.7,3.3,4.0,4.0,6,"Materials were slightly outdated, but overall very useful."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p09,paid,online,5.4,8.1,2.7,3.5,4.3,4.6,3.6,3.6,4.1,9,"Great atmosphere, well-organised."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p10,paid,online,5.6,8.5,2.9,3.9,4.4,4.2,3.0,4.0,4.0,8,Content was good but we ran out of time at the end.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p11,paid,online,5.8,8.5,2.7,3.4,4.4,4.5,3.6,3.7,3.8,8,Content was good but we ran out of time at the end.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p12,paid,online,6.0,8.4,2.4,3.5,3.9,4.5,3.5,3.7,4.1,7,"Great atmosphere, well-organised."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p13,paid,online,3.8,6.6,2.8,4.1,4.5,4.3,3.4,3.9,3.9,7,"Materials were slightly outdated, but overall very useful."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p14,paid,online,4.0,6.5,2.5,3.5,3.9,4.8,3.9,3.8,4.3,9,"Great atmosphere, well-organised."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p15,paid,online,4.2,7.2,3.0,4.0,4.0,4.3,4.0,3.9,4.2,7,The instructor explained complex concepts clearly.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p16,paid,online,4.4,7.4,3.0,3.8,4.5,4.3,3.4,3.5,4.0,9,Would have liked smaller group for Q&A.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p17,paid,online,4.6,7.0,2.4,3.4,4.0,4.3,3.3,3.8,3.9,6,"Very practical exercises, I could apply them the same day."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p18,paid,online,4.8,7.5,2.7,3.6,4.2,4.2,3.5,4.1,3.9,9,The instructor explained complex concepts clearly.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p19,paid,online,5.0,7.2,2.2,3.5,4.1,4.8,3.6,3.8,3.8,8,Content was good but we ran out of time at the end.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p20,paid,online,5.2,7.8,2.6,3.4,4.0,4.4,3.5,3.9,4.1,8,"Great atmosphere, well-organised."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p21,paid,online,5.4,8.4,3.0,3.7,4.1,4.6,3.8,4.0,4.0,8,Would have liked smaller group for Q&A.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p22,paid,online,5.6,8.4,2.8,3.6,4.4,4.4,3.7,4.3,4.1,8,"Very practical exercises, I could apply them the same day."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p23,paid,online,5.8,8.5,2.7,3.6,4.3,4.8,3.6,3.7,3.7,7,
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p24,paid,online,6.0,8.7,2.7,3.9,4.4,4.3,3.7,3.5,4.3,6,"Very practical exercises, I could apply them the same day."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p25,paid,online,3.8,6.3,2.5,3.7,4.1,4.3,3.5,4.0,4.0,9,"Very practical exercises, I could apply them the same day."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p26,free,online,3.0,6.1,3.1,3.9,4.3,4.9,3.6,3.8,4.4,8,
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p27,free,online,3.0,5.7,2.7,3.8,4.5,4.7,3.7,4.1,4.2,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p28,free,online,3.0,5.7,2.7,3.7,4.6,4.9,3.9,4.1,4.2,8,Would have liked smaller group for Q&A.
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p29,free,online,3.0,5.7,2.7,4.2,4.5,4.5,3.2,4.0,4.0,9,"Great atmosphere, well-organised."
+ws_2026_007,Hypothesis Testing,2026-05-30,ws_2026_007_p30,free,online,3.0,6.4,3.4,4.1,4.2,4.5,3.8,3.8,4.1,7,Would have liked smaller group for Q&A.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p01,paid,online,3.3,5.8,2.5,4.2,4.2,4.6,3.4,3.6,4.2,7,"Very practical exercises, I could apply them the same day."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p02,paid,online,3.5,6.5,3.0,3.9,4.4,4.3,3.5,4.1,3.9,8,"Very practical exercises, I could apply them the same day."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p03,paid,online,3.7,7.0,3.3,4.3,4.1,4.7,4.0,3.9,4.2,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p04,paid,online,3.9,6.5,2.6,4.0,4.5,4.4,3.7,3.9,4.2,9,Would benefit from more hands-on time.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p05,paid,online,4.1,6.8,2.7,4.2,4.6,4.3,3.9,4.1,3.9,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p06,paid,online,4.3,7.5,3.2,3.5,4.3,4.4,4.1,3.7,4.4,8,Would have liked smaller group for Q&A.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p07,paid,online,4.5,7.7,3.2,3.6,4.3,4.5,3.9,3.8,4.2,8,Would benefit from more hands-on time.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p08,paid,online,4.7,7.0,2.3,3.8,4.2,4.7,3.3,4.0,4.2,7,Content was good but we ran out of time at the end.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p09,paid,online,4.9,7.7,2.8,3.6,4.4,4.4,3.2,3.8,3.9,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p10,paid,online,5.1,7.8,2.7,3.7,4.2,4.6,3.7,3.7,4.0,7,The instructor explained complex concepts clearly.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p11,paid,online,5.3,8.1,2.8,3.6,4.4,4.9,4.0,4.1,4.2,8,"Materials were slightly outdated, but overall very useful."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p12,paid,online,5.5,8.2,2.7,3.7,4.6,4.6,3.6,4.3,4.0,8,Would have liked smaller group for Q&A.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p13,paid,online,3.3,6.4,3.1,4.1,4.5,4.8,3.8,4.0,4.3,8,
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p14,paid,online,3.5,6.5,3.0,3.6,4.3,4.3,3.6,3.9,4.1,7,"Great atmosphere, well-organised."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p15,paid,online,3.7,6.9,3.2,3.9,4.4,4.7,3.6,4.2,4.1,6,Would benefit from more hands-on time.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p16,paid,online,3.9,6.7,2.8,3.9,4.0,4.6,3.9,4.1,4.0,9,Excellent introduction — looking forward to advanced sessions.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p17,paid,online,4.1,7.0,2.9,3.5,4.2,4.3,4.1,4.2,3.8,9,"Very practical exercises, I could apply them the same day."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p18,paid,online,4.3,6.9,2.6,3.6,4.1,4.7,3.8,4.3,4.0,9,Would have liked smaller group for Q&A.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p19,paid,online,4.5,7.7,3.2,4.2,4.2,4.7,3.8,3.9,4.2,7,Would benefit from more hands-on time.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p20,paid,online,4.7,8.0,3.3,3.8,4.1,4.9,3.9,4.1,4.4,8,
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p21,paid,online,4.9,7.6,2.7,3.8,4.1,4.6,3.3,3.7,4.3,8,"Very practical exercises, I could apply them the same day."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p22,paid,online,5.1,8.2,3.1,3.8,4.5,4.8,3.1,3.7,3.9,6,"Very practical exercises, I could apply them the same day."
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p23,paid,online,5.3,7.8,2.5,3.5,4.3,4.6,3.9,4.1,3.9,9,Excellent introduction — looking forward to advanced sessions.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p24,paid,online,5.5,8.6,3.1,4.1,4.2,4.7,3.8,3.8,4.0,7,
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p25,paid,online,3.3,5.8,2.5,3.7,4.0,4.9,4.0,4.2,4.2,7,Would have liked smaller group for Q&A.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p26,free,online,2.5,5.1,2.6,3.9,4.5,4.6,3.7,4.1,4.1,7,Would benefit from more hands-on time.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p27,free,online,2.5,5.9,3.4,4.0,4.6,4.6,3.9,4.1,4.4,8,Content was good but we ran out of time at the end.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p28,free,online,2.5,5.7,3.2,3.7,4.2,4.5,3.8,4.2,4.4,7,Excellent introduction — looking forward to advanced sessions.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p29,free,online,2.5,5.2,2.7,3.9,4.5,4.4,3.3,4.1,4.3,8,Excellent introduction — looking forward to advanced sessions.
+ws_2026_008,Data Quality,2026-06-18,ws_2026_008_p30,free,online,2.5,5.6,3.1,4.3,4.3,5.0,3.2,4.2,4.5,7,Would have liked smaller group for Q&A.

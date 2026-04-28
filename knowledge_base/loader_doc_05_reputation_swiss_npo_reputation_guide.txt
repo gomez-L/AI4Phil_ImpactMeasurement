@@ -1,0 +1,31 @@
+Title: Measuring Community Reputation for NGOs and Non-Profits
+Source: Swiss NPO Reputation Guide
+Category: reputation
+
+Measuring Community Reputation for NGOs and Non-Profits
+========================================================
+A Reputation Index for a city-based non-profit can be constructed from four pillars:
+
+1. Stakeholder NPS (weight 35%): Survey of partner organisations, municipalities,
+   schools, employers — asking if they would recommend the NGO's programmes.
+
+2. Partner satisfaction (weight 25%): Average rating from institutional partners (0–5).
+
+3. Social & media sentiment (weight 20%): Ratio of positive to total mentions
+   across LinkedIn, Twitter, local press, Google Reviews. Score: (pos / total) * 5.
+
+4. Municipal / institutional engagement (weight 20%): Quality and regularity of
+   formal relationships with public bodies (0–5 self-assessment or external audit).
+
+Composite formula:
+  Reputation Index (0–100) =
+    (stakeholder_nps_normalised * 0.35) +
+    (partner_satisfaction / 5 * 100 * 0.25) +
+    (social_sentiment_score / 5 * 100 * 0.20) +
+    (municipal_engagement / 5 * 100 * 0.20)
+
+Benchmarks for Geneva civil society organisations:
+  ≥ 75 : Strong civic reputation — eligible for municipal grants
+  60–74: Solid — continue building partnerships
+  45–59: Moderate — proactive communication campaigns needed
+  < 45 : Weak — reputation recovery plan required
