@@ -1,0 +1,9 @@
+﻿workshop_id,name,date,topic,participants_total,n_paid_onsite,n_paid_online,n_free,revenue_chf,cost_venue_chf,cost_materials_chf,cost_instructor_chf,cost_marketing_chf,cost_admin_chf,total_cost_chf,surplus_chf
+ws_2026_001,Python Basics for Beginners,2026-01-20,Python programming,30,25,0,5,375.0,150.0,0.0,100.0,0.0,0.0,250.0,125.0
+ws_2026_002,Cybersecurity Essentials,2026-02-10,Cybersecurity awareness,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
+ws_2026_003,Data Literacy for Non-Profits,2026-03-15,Data literacy,30,25,0,5,375.0,120.0,0.0,100.0,0.0,0.0,220.0,155.0
+ws_2026_004,Statistics Beginners,2026-04-05,statistics beginners,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
+ws_2026_005,Statistics Intermediate,2026-04-25,statistics intermediate,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
+ws_2026_006,Introduction to Programming in R,2026-05-12,introduction to programming in R,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
+ws_2026_007,Hypothesis Testing,2026-05-30,hypothesis testing,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
+ws_2026_008,Data Quality,2026-06-18,data quality,30,0,25,5,125.0,0.0,0.0,100.0,0.0,0.0,100.0,25.0
